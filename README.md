@@ -48,7 +48,7 @@ PricePilot/
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/PricePilot.git
+git clone https://github.com/vedantdalvi45 /PricePilot.git
 cd PricePilot/backend
 ```
 
@@ -141,23 +141,7 @@ Where `products.json` contains your array of products with INR prices.
 
 ## 📸 Screenshots
 
-*Add screenshots here once deployed*
-
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
 
 
----
-
-## 📬 Feedback
-
-If you find any issues or have ideas for improvements, feel free to [open an issue](https://github.com/your-username/PricePilot/issues).
-
----
 
 Happy Coding! 🎉
