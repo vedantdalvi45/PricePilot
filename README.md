@@ -48,7 +48,7 @@ PricePilot/
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/vedantdalvi45 /PricePilot.git
+git clone https://github.com/vedantdalvi45/PricePilot.git
 cd PricePilot/backend
 ```
 
