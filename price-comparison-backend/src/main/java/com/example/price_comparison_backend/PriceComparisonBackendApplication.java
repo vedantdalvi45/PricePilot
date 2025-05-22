@@ -9,5 +9,4 @@ public class PriceComparisonBackendApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PriceComparisonBackendApplication.class, args);
 	}
-
 }
