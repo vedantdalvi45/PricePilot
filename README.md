@@ -2,11 +2,6 @@
 
 **PricePilot** is a full-stack web application for comparing product prices across categories, built using React (with Vite), Spring Boot, and MongoDB. It offers a professional, clean UI with category filtering, search, and sorting, and does **not** require user login.
 
----
-
-## 🌐 Live Demo
-
-*Coming Soon*
 
 ---
 
