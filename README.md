@@ -140,9 +140,12 @@ Where `products.json` contains your array of products with INR prices.
 ---
 
 ## 📸 Screenshots
-<img src="images/image1.png" width="300"/>
-<img src="images/image2.png" width="300"/>
-<img src="images/image3.png" width="300"/>
+<div style="text-align: center;">
+  <img src="assets/image1.png" width="800" />
+  <img src="assets/image2.png" width="800" />
+  <img src="assets/image3.png" width="800" />
+</div>
+
 
 
 
