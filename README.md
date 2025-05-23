@@ -102,7 +102,7 @@ npm run dev
 * 🔍 **Search** products by name
 * 🗂️ **Filter** by category
 * 🧾 **Sort** by name or price (asc/desc)
-* 💅 Responsive UI with blue, orange, and white theme
+* ❄️ Responsive UI with blue, orange, and white theme
 * 🛒 Displays source, brand, and pricing clearly
 
 ---
