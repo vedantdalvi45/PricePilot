@@ -102,7 +102,7 @@ npm run dev
 * 🔍 **Search** products by name
 * 🗂️ **Filter** by category
 * 🧾 **Sort** by name or price (asc/desc)
-* 💅 Responsive UI with blue, orange, and white theme
+* ❄️ Responsive UI with blue, orange, and white theme
 * 🛒 Displays source, brand, and pricing clearly
 
 ---
@@ -140,6 +140,12 @@ Where `products.json` contains your array of products with INR prices.
 ---
 
 ## 📸 Screenshots
+<div style="text-align: center;">
+  <img src="images/image1.png" width="800" />
+  <img src="images/image2.png" width="800" />
+  <img src="images/image3.png" width="800" />
+</div>
+
 
 
 

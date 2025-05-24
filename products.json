@@ -1,0 +1,497 @@
+[
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b2d"
+      },
+      "name": "Brown Bread",
+      "brand": "Britannia",
+      "price": 45,
+      "currency": "INR",
+      "source": "Local Store",
+      "category": "Groceries"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b2e"
+      },
+      "name": "Running Shorts",
+      "brand": "Puma",
+      "price": 999,
+      "currency": "INR",
+      "source": "Myntra",
+      "category": "Clothes"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b2f"
+      },
+      "name": "Skipping Rope",
+      "brand": "Domyos",
+      "price": 299,
+      "currency": "INR",
+      "source": "Decathlon",
+      "category": "Fitness"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b30"
+      },
+      "name": "Hoodie",
+      "brand": "H&M",
+      "price": 1499,
+      "currency": "INR",
+      "source": "H&M",
+      "category": "Clothes"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b31"
+      },
+      "name": "Track Pants",
+      "brand": "Nike",
+      "price": 1399,
+      "currency": "INR",
+      "source": "Nike Store",
+      "category": "Clothes"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b32"
+      },
+      "name": "Electric Kettle",
+      "brand": "Prestige",
+      "price": 899,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b33"
+      },
+      "name": "Wireless Mouse",
+      "brand": "Logitech",
+      "price": 599,
+      "currency": "INR",
+      "source": "Flipkart",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b34"
+      },
+      "name": "Bluetooth Speaker",
+      "brand": "JBL",
+      "price": 1999,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b35"
+      },
+      "name": "Hair Dryer",
+      "brand": "Philips",
+      "price": 1199,
+      "currency": "INR",
+      "source": "Flipkart",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b36"
+      },
+      "name": "Whey Protein",
+      "brand": "ON",
+      "price": 3999,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Fitness"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b37"
+      },
+      "name": "Yoga Block",
+      "brand": "Decathlon",
+      "price": 399,
+      "currency": "INR",
+      "source": "Decathlon",
+      "category": "Fitness"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b38"
+      },
+      "name": "Sports Water Bottle",
+      "brand": "Tupperware",
+      "price": 249,
+      "currency": "INR",
+      "source": "Local Store",
+      "category": "Fitness"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b39"
+      },
+      "name": "LED Bulb 10W",
+      "brand": "Philips",
+      "price": 139,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b3a"
+      },
+      "name": "Classic T-Shirt",
+      "brand": "Zara",
+      "price": 899,
+      "currency": "INR",
+      "source": "Zara",
+      "category": "Clothes"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b3b"
+      },
+      "name": "Laptop Stand",
+      "brand": "AmazonBasics",
+      "price": 799,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b3c"
+      },
+      "name": "Toothpaste 150g",
+      "brand": "Colgate",
+      "price": 99,
+      "currency": "INR",
+      "source": "Local Store",
+      "category": "Groceries"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b3d"
+      },
+      "name": "Face Wash",
+      "brand": "Himalaya",
+      "price": 120,
+      "currency": "INR",
+      "source": "Grocery Store",
+      "category": "Groceries"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b3e"
+      },
+      "name": "Notebook (200 pages)",
+      "brand": "Classmate",
+      "price": 70,
+      "currency": "INR",
+      "source": "Stationery",
+      "category": "Books"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b3f"
+      },
+      "name": "Stapler",
+      "brand": "Kangaro",
+      "price": 150,
+      "currency": "INR",
+      "source": "Local Store",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b40"
+      },
+      "name": "USB Cable 1m",
+      "brand": "Mi",
+      "price": 199,
+      "currency": "INR",
+      "source": "Flipkart",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b41"
+      },
+      "name": "Earphones",
+      "brand": "Boat",
+      "price": 399,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b42"
+      },
+      "name": "Curtains (Set of 2)",
+      "brand": "Home Centre",
+      "price": 1199,
+      "currency": "INR",
+      "source": "Home Centre",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b43"
+      },
+      "name": "Wall Clock",
+      "brand": "Ajanta",
+      "price": 699,
+      "currency": "INR",
+      "source": "Flipkart",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b44"
+      },
+      "name": "Ceiling Fan",
+      "brand": "Havells",
+      "price": 2499,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b45"
+      },
+      "name": "Formal Shirt",
+      "brand": "Van Heusen",
+      "price": 1799,
+      "currency": "INR",
+      "source": "Myntra",
+      "category": "Clothes"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b46"
+      },
+      "name": "Fitness Tracker",
+      "brand": "Mi",
+      "price": 2299,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Fitness"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b47"
+      },
+      "name": "Casual Watch",
+      "brand": "Fastrack",
+      "price": 1499,
+      "currency": "INR",
+      "source": "Flipkart",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b48"
+      },
+      "name": "Basmati Rice 1kg",
+      "brand": "India Gate",
+      "price": 125,
+      "currency": "INR",
+      "source": "Local Mart",
+      "category": "Groceries"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b49"
+      },
+      "name": "Casual Sneakers",
+      "brand": "Bata",
+      "price": 1999,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Clothes"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b4a"
+      },
+      "name": "Hand Sanitizer",
+      "brand": "Dettol",
+      "price": 60,
+      "currency": "INR",
+      "source": "Local Store",
+      "category": "Groceries"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b4b"
+      },
+      "name": "Fitness Ball",
+      "brand": "Domyos",
+      "price": 799,
+      "currency": "INR",
+      "source": "Decathlon",
+      "category": "Fitness"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b4c"
+      },
+      "name": "Phone Case",
+      "brand": "Spigen",
+      "price": 899,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b4d"
+      },
+      "name": "Wireless Keyboard",
+      "brand": "Logitech",
+      "price": 1499,
+      "currency": "INR",
+      "source": "Flipkart",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b4e"
+      },
+      "name": "Laptop Backpack",
+      "brand": "American Tourister",
+      "price": 1999,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b4f"
+      },
+      "name": "Water Purifier",
+      "brand": "Kent",
+      "price": 7499,
+      "currency": "INR",
+      "source": "Flipkart",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b50"
+      },
+      "name": "Portable Charger",
+      "brand": "Ambrane",
+      "price": 899,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Tech Products"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b51"
+      },
+      "name": "Gas Stove",
+      "brand": "Prestige",
+      "price": 2999,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b52"
+      },
+      "name": "Socks (Pack of 3)",
+      "brand": "Jockey",
+      "price": 349,
+      "currency": "INR",
+      "source": "Jockey Store",
+      "category": "Clothes"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b53"
+      },
+      "name": "Study Lamp",
+      "brand": "Philips",
+      "price": 799,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b54"
+      },
+      "name": "Notebook Planner",
+      "brand": "Doms",
+      "price": 149,
+      "currency": "INR",
+      "source": "Stationery",
+      "category": "Books"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b55"
+      },
+      "name": "Face Cream",
+      "brand": "Nivea",
+      "price": 299,
+      "currency": "INR",
+      "source": "Local Store",
+      "category": "Groceries"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b56"
+      },
+      "name": "Slippers",
+      "brand": "Paragon",
+      "price": 229,
+      "currency": "INR",
+      "source": "Local Store",
+      "category": "Clothes"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b57"
+      },
+      "name": "Vegetable Chopper",
+      "brand": "Pigeon",
+      "price": 499,
+      "currency": "INR",
+      "source": "Flipkart",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b58"
+      },
+      "name": "Electric Toothbrush",
+      "brand": "Oral-B",
+      "price": 999,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Home Appliances"
+   },
+   {
+      "_id": {
+         "$oid": "682f75a2d856b424bc894b59"
+      },
+      "name": "Office Chair",
+      "brand": "Green Soul",
+      "price": 8999,
+      "currency": "INR",
+      "source": "Amazon",
+      "category": "Home Appliances"
+   }
+]
